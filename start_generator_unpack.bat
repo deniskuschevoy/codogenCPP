@@ -1,0 +1,1 @@
+php start.php --config==configurations/simple_config_unpack.yml --output=output --templates=templates/cpp --mapping=mappings/simple_mapping_unpack.yml
